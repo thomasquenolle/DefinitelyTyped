@@ -336,6 +336,7 @@ declare namespace google.maps {
         INTERCITY_BUS,
         METRO_RAIL,
         MONORAIL,
+        LONG_DISTANCE_TRAIN,
         OTHER,
         RAIL,
         SHARE_TAXI,
